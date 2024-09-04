@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suijrb.github.io/sitemap/sitemap.fyJ.gz
